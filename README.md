@@ -3,6 +3,7 @@
 <a href="https://github.com/pop-ketle/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=pop-ketle&theme=darcula&show_icons=true&count_private=true" />
 </a>
+![Counter](https://profile-counter.glitch.me/pop-ketle/count.svg)
 <!--
 htmlがトップに来るのが我慢できなかったので使用言語はランキングはなし
 <a href="https://github.com/pop-ketle/github-readme-stats">
