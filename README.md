@@ -2,7 +2,10 @@
 
 ![pop-ketle's github stats](https://github-readme-stats.vercel.app/api?username=pop-ketle&theme=darcula&show_icons=true&count_private=true)
 
+<!--
+思ったよりカウンターださいのでなし
 ![Counter](https://profile-counter.glitch.me/pop-ketle/count.svg)
+-->
 
 <!--
 htmlがトップに来るのが我慢できなかったので使用言語はランキングはなし
