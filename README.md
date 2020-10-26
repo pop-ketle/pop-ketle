@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 ![pop-ketle's github stats](https://github-readme-stats.vercel.app/api?username=pop-ketle&theme=darcula&show_icons=true&count_private=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=pop-ketle&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <!--
 思ったよりカウンターださいのでなし
