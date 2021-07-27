@@ -2,6 +2,8 @@
 
 ⚡My Portfolio Site is Here!⚡ https://pop-ketle.github.io/
 
+最近はお仕事やKaggleのNoteBookでコードを書くことが多い関係であまりGithubは使用できていません。。
+
 ---
 
 ![pop-ketle's github stats](https://github-readme-stats.vercel.app/api?username=pop-ketle&theme=darcula&show_icons=true&count_private=true)
